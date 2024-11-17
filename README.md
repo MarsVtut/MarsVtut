@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarsVtut
-- 👀 I’m interested in ... Bioinformatics, Computational Biology, Public Health, Software Engineering, Game Development, Cyber Security, Chess
+- 👀 I’m interested in ... Bioinformatics, Computational Biology, Public Health, Software Engineering
 - 📫 How to reach me ... marsvtut@gmail.com
   
 [LeetCode Profile](https://leetcode.com/u/MarsVtut/)
